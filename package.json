@@ -1,0 +1,25 @@
+{
+  "name": "generador_degradado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:node": "tsc --module commonjs"
+  },
+  "keywords": [],
+  "author": "Luis Puente Fernández",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisPFdez/Generador-degradado-TS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuisPFdez/Generador-degradado-TS/issues"
+  },
+  "homepage": "https://github.com/LuisPFdez/Generador-degradado-TS#readme"
+}
+

@@ -1,0 +1,15 @@
+
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "module": "ES6",
+        "target": "ES6",
+        "outDir": "./dist",
+        "strict": true,
+        "removeComments": false,
+        "declaration": true
+    },
+    "include": [
+        "**/*.ts"
+    ]
+}
